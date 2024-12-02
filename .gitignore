@@ -1,5 +1,9 @@
+# program name
+shell
+
 # Prerequisites
 *.d
+
 
 # Object files
 *.o
